@@ -1,0 +1,7 @@
+os
+requests
+urllib.parse
+bs4
+confluent_kafka
+datetime
+elasticsearch
